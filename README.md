@@ -17,7 +17,7 @@ this ensures the seperation of the log.txt file from the developer, helping to m
 
 ## Example Response:
 > with open("response.txt", "r") as response:  
->    print(response.read())
+>     print(response.read())
 
   This only comes in to play after a user has sent a request for a copy via request.txt. Once this is done, the program prompty creates a copy of log.txt
 on response.txt, which you can then read, interact with among other things. This ensures that the user does not need to, and cannot interact with log.txt
