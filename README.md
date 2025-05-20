@@ -1,11 +1,11 @@
 ## Example Requests:
-> with open("request.txt", "w") as request:
+> with open("request.txt", "w") as request:  
 >     request.write("w 1, 2, 3, 4")
 
-> with open("request.txt", "w") as request:
+> with open("request.txt", "w") as request:  
 >     request.write("d")
 
-> with open("request.txt", "w") as request:
+> with open("request.txt", "w") as request:  
 >     request.write("c")
 
   Overall, their are 3 commands that one can use for the search_logger.py microservice, those being write, delete, and copy. Write requires you to
@@ -16,7 +16,7 @@ this ensures the seperation of the log.txt file from the developer, helping to m
 
 
 ## Example Response:
-> with open("response.txt", "r") as response:
+> with open("response.txt", "r") as response:  
 >    print(response.read())
 
   This only comes in to play after a user has sent a request for a copy via request.txt. Once this is done, the program prompty creates a copy of log.txt
