@@ -25,4 +25,4 @@ directly. Below is a UML example of the response part of the program.
 
 
 
-![Screenshot 2025-05-19 at 19-32-19 Untitled document - Google Docs](https://github.com/user-attachments/assets/432e68ab-9698-4272-8525-b9e8297bf4cb)
+![Screenshot 2025-05-19 at 19-33-38 Untitled document - Google Docs](https://github.com/user-attachments/assets/8e8ce9dc-c347-4256-b731-1492cfbcb2e2)
