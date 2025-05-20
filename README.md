@@ -24,4 +24,5 @@ on response.txt, which you can then read, interact with among other things. This
 directly. Below is a UML example of the response part of the program.
 
 
-![Screenshot 2025-05-19 at 18-50-53 Untitled document - Google Docs](https://github.com/user-attachments/assets/e6f9b446-68ed-4138-91a8-84279093d32a)
+
+![Screenshot 2025-05-19 at 19-32-19 Untitled document - Google Docs](https://github.com/user-attachments/assets/432e68ab-9698-4272-8525-b9e8297bf4cb)
