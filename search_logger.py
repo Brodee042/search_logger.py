@@ -22,8 +22,8 @@ def write_log(entry):
         log.write(entry.strip() + "\n")
 
 def copy_log():
-    """copy's the contents of log.txt and puts them in response.txt, which the developer can then extract/interact with, log.txt cannot
-    be interacted with directly"""
+    """copy's the contents of log.txt and puts them in response.txt, which the developer 
+    can then extract/interact with, log.txt cannot be interacted with directly"""
     with open("log.txt", "r") as source:
         lines = source.readlines()
 
